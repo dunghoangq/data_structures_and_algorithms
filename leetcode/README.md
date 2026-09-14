@@ -32,6 +32,7 @@
 
 | Problem | Difficulty |
 |---------|------------|
+| [4_median_of_two_sorted_arrays](binary_search/4_median_of_two_sorted_arrays) | <font color='tomato'>HARD</font> |
 | [33_search_in_rotated_sorted_array](binary_search/33_search_in_rotated_sorted_array) | <font color='orange'>MED.</font> |
 | [35_search_insert_position](binary_search/35_search_insert_position) | <font color='seagreen'>EASY</font> |
 | [222_count_completee_tree_nodes](binary_search/222_count_completee_tree_nodes) | <font color='seagreen'>EASY</font> |
