@@ -11,6 +11,8 @@
 | [136_single_number](array/136_single_number/) | <font color='seagreen'>EASY</font> |
 | [217_contains_duplicate](array/217_contains_duplicate) | <font color='seagreen'>EASY</font> |
 | [219_contains_duplicate_ii](array/219_contains_duplicate_ii) | <font color='seagreen'>EASY</font> |
+| [228_summary_ranges](array/228_summary_ranges) | <font color='seagreen'>EASY</font> |
+| [283_move_zeroes](array/283_move_zeroes) | <font color='seagreen'>EASY</font> |
 
 ## bfs
 
